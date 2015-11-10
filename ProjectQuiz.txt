@@ -1,9 +1,9 @@
-*****************************************************
-Project Name:  Recipe Display Application
-Author: 
-Date:   
+************************************************************************
+Project Name:  Recipe Display Application  --  Project Quiz
+Author: Shayna Billheimer
+Date:   11/10/15
 Participation Assignment (25 points)
-*****************************************************
+************************************************************************
 
 Instructions:  
 Answer the following questions for Lesson 7 Assignment
@@ -13,7 +13,7 @@ Question #1:  (5 points)
 ++++++++++++
 Why should you ensure that the script element that links to the jQuery library file comes before any other script element for a .js file that includes jQuery code?
 
-
+It is able to run first while a .js file is used and referenced.
 
 
 ++++++++++++
@@ -21,7 +21,7 @@ Question #2:  (5 points)
 ++++++++++++
 Why should you avoid including jQuery in a project if you don't need it?
 
-
+It avoids extending the native element prototypes.
 
 
 
@@ -32,10 +32,12 @@ Question #3:  (5 points)
 How does every jQuery statement start?
 
 
-
+With a '$'.
 
 
 ++++++++++++
 Question #4: (10 points)
 ++++++++++++
 What is a Content Delivery Network (CDN)?  List and explain at least FOUR advantages in using a CDN.
+
+A CDN  is a large distributed system of servers deployed in multiple data centers across the Internet and also is an alterniative to hosting JQuery yourself. Four advantages are that you don't have to host it yourself, saving on loading time, CDNs provide localized data centers which are closer to users, having faster loading times, you will not have the same capacity or scalability offered by major CDNs creating less packet loss and faster load times, and people already visted websites where they automatically download JQuery, causing it to load faster since you are not hosting.

@@ -1,0 +1,6 @@
+********************************************************************************
+Project Name:  Recipe Display Application - Extra Credit Assignment  (+4 points)
+Author: Shayna Billheimer
+Date:  11/10/15
+
+********************************************************************************
